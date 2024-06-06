@@ -1,6 +1,6 @@
 Install node and vite on host if note present and then run the following commands:
 
-1. git clone https://github.com/tharshithgoud/vite-template
+1. git clone https://github.com/tharshithgoud/vite-docker-template
 
 2. cd vite-template
 
